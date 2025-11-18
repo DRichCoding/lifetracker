@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyCdxLfIfQL-M18y8zQl5aE1z3AccNWslBk",
-  authDomain: "lifetrackerid.firebaseapp.com",
+  authDomain: "life-tracker-dan.firebaseapp.com",
   projectId: "life-tracker-dan",
   storageBucket: "life-tracker-dan.firebasestorage.app",
   messagingSenderId: "76945546748",
