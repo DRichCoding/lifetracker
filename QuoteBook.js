@@ -4,9 +4,9 @@ import { getFirestore, collection, addDoc, getDocs, deleteDoc, doc } from "fireb
 // Your Firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyCdxLfIfQL-M18y8zQl5aE1z3AccNWslBk",
-  authDomain: "life-tracker-dan.firebaseapp.com",
-  projectId: "life-tracker-dan",
-  storageBucket: "life-tracker-dan.firebasestorage.app",
+  authDomain: "lifetrackerid.firebaseapp.com",
+  projectId: "lifetrackerid",
+  storageBucket: "lifetrackerid.firebasestorage.app",
   messagingSenderId: "76945546748",
   appId: "1:76945546748:web:f5bc9009e19640226f2679"
 };
